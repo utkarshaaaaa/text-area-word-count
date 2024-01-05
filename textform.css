@@ -1,0 +1,16 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    background-color: black;
+    color: wheat;
+}
+
+.letters{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    border: 1px solid blacks;
+    font-weight: bold;
+}
